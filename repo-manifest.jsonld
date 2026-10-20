@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/coleifer/vedis-python/commit/cef7f6b80498976a0e51bae1f3898983b027dfe1",
       "git:hexsha": "cef7f6b80498976a0e51bae1f3898983b027dfe1",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/coleifer/vedis-python/commit/f7f85ab13c8d34721b4bb040727740f5f24dc80d",
