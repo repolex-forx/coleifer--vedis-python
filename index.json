@@ -1,0 +1,11 @@
+{
+  "org": "coleifer",
+  "repo": "vedis-python",
+  "versions": [
+    {
+      "commit": "cef7f6b80498976a0e51bae1f3898983b027dfe1",
+      "tag": "",
+      "parsed_at": "2026-10-20T20:21:57.489622+00:00"
+    }
+  ]
+}
