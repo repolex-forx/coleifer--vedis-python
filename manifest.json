@@ -1,0 +1,38 @@
+{
+  "manifest_version": "1.0",
+  "org": "coleifer",
+  "repo": "vedis-python",
+  "versions": [
+    {
+      "commit": "cef7f6b80498976a0e51bae1f3898983b027dfe1",
+      "parsed_at": "2026-10-20T20:18:00.725294+00:00",
+      "filetree": "filetree/cef7f6b80498976a0e51bae1f3898983b027dfe1.nq.gz",
+      "blobs": [
+        "blob/254873a3fbf21a3e4f4de29a696d14f66a2028fc.nq.gz",
+        "blob/55efaa52d2daf8cddde1dd2536a95556749ba6fe.nq.gz",
+        "blob/9232b7f5d48b5c71d19c3427ca4d803cd3267b67.nq.gz",
+        "blob/0617d3029b80f2ada9c76449d578a9c6820c4fd7.nq.gz",
+        "blob/d45787c69d69a75f291e1028644669f86fb52b23.nq.gz",
+        "blob/ff41d0fe81df93fe4ad5f6eebc0bfdb271eca600.nq.gz",
+        "blob/e9f294dd4e94df9a38a9ac18598420d329a1253d.nq.gz",
+        "blob/c3ac60742508b7f0f2c833dbbae82e7614beab6e.nq.gz",
+        "blob/52c2817c16d7d224f3bae340ec29525ee9e5426e.nq.gz",
+        "blob/5cec0d9ce776a9412d787b9c6f6af7c4a7154288.nq.gz",
+        "blob/c6336b0ac046fc1b014d25a3d0dde0c97da767dd.nq.gz",
+        "blob/1f3cb0552c784d8a1c12fc05f728468fd32196f2.nq.gz",
+        "blob/a9a34d99e99df441e2ce900b5535277fed50f9e5.nq.gz",
+        "blob/808065fbfd8d9b30a053f4f69aa7f57696e44157.nq.gz",
+        "blob/aa66cd71018bbc43e21415c7753527057ccc031b.nq.gz",
+        "blob/9d8f87853b903a15255a52b6c51864fa91d082ec.nq.gz",
+        "blob/1156dae80463fd710d80ea8604d1ba3887d4d7d6.nq.gz",
+        "blob/ecf4b0605884c739a3e019995e74504cfe99b2dd.nq.gz",
+        "blob/2299f64ae0a06cf6f8b956a56e2d4f4517a29c3b.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
